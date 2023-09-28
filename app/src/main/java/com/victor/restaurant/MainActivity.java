@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
     private void setNavigationDrawer(){
         dLayout =  (DrawerLayout)  findViewById(R.id.drawer_layout);
-        NavigationView navVieW=(NavigationView) findViewById(R.id.drawer_layout);
+        NavigationView navVieW=(NavigationView) findViewById(R.id.navigation);
         navVieW.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected( MenuItem menuItem) {
