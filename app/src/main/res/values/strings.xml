@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="inicio_titulo">Costeau</string>
+    <string name="inicio_descrip">Experimente nuestro menu de temporada  en un hermoso entorno campestre.
+        Disfrute los productos mas fresco desde la comodidad de nuestra granja</string>
+    <string name="btn_inicio">Reservar</string>
+</resources>
